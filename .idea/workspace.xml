@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4b4eacd-7d70-4fc4-9cf9-2121c96f8916" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mIbGbi0A81rgmlOL5VYTr8FhSz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MultithreadedAdder" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.antlr.intellij.plugin.configdialogs.ANTLRv4ProjectSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comp0008.Main" />
+      <module name="MultithreadedAdder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comp0008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b4eacd-7d70-4fc4-9cf9-2121c96f8916" name="Default Changelist" comment="" />
+      <created>1609183957631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609183957631</updated>
+      <workItem from="1609183960855" duration="1852000" />
+      <workItem from="1610367861525" duration="2649000" />
+      <workItem from="1610375953436" duration="13772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="85" key="#Project_Structure" timestamp="1609185001181">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="321" y="85" key="#Project_Structure/0.23.1440.833@0.23.1440.833" timestamp="1609185001181" />
+    <state x="0" y="285" key="#com.intellij.ide.util.MemberChooser" timestamp="1610451614346">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="0" y="285" key="#com.intellij.ide.util.MemberChooser/0.23.1440.837@0.23.1440.837" timestamp="1610451614346" />
+    <state x="481" y="130" key="#xdebugger.evaluate" timestamp="1610376380869">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="481" y="130" key="#xdebugger.evaluate/0.23.1440.838@0.23.1440.838" timestamp="1610376380869" />
+    <state x="506" y="176" key="FileChooserDialogImpl" timestamp="1610442788307">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="506" y="176" key="FileChooserDialogImpl/0.23.1440.837@0.23.1440.837" timestamp="1610442788307" />
+    <state width="1394" height="6" key="GridCell.Tab.0.bottom" timestamp="1610865959538">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="202" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1609956125692" />
+    <state width="1394" height="6" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1610865959538" />
+    <state width="1394" height="202" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1610385278416" />
+    <state width="1394" height="6" key="GridCell.Tab.0.center" timestamp="1610865959537">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="202" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1609956125692" />
+    <state width="1394" height="6" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1610865959537" />
+    <state width="1394" height="202" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1610385278357" />
+    <state width="1394" height="6" key="GridCell.Tab.0.left" timestamp="1610865959536">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="202" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1609956125691" />
+    <state width="1394" height="6" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1610865959536" />
+    <state width="1394" height="202" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1610385278329" />
+    <state width="1394" height="6" key="GridCell.Tab.0.right" timestamp="1610865959537">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="202" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1609956125692" />
+    <state width="1394" height="6" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1610865959537" />
+    <state width="1394" height="202" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1610385278385" />
+    <state width="1394" height="246" key="GridCell.Tab.1.bottom" timestamp="1610452437646">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1610452437646" />
+    <state width="1394" height="246" key="GridCell.Tab.1.bottom/0.23.1440.838@0.23.1440.838" timestamp="1610383383332" />
+    <state width="1394" height="246" key="GridCell.Tab.1.center" timestamp="1610452437646">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1610452437646" />
+    <state width="1394" height="246" key="GridCell.Tab.1.center/0.23.1440.838@0.23.1440.838" timestamp="1610383383331" />
+    <state width="1394" height="246" key="GridCell.Tab.1.left" timestamp="1610452437646">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1610452437646" />
+    <state width="1394" height="246" key="GridCell.Tab.1.left/0.23.1440.838@0.23.1440.838" timestamp="1610383383331" />
+    <state width="1394" height="246" key="GridCell.Tab.1.right" timestamp="1610452437646">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1394" height="246" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1610452437646" />
+    <state width="1394" height="246" key="GridCell.Tab.1.right/0.23.1440.838@0.23.1440.838" timestamp="1610383383331" />
+  </component>
+</project>
